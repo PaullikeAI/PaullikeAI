@@ -1,12 +1,6 @@
-# Hi 👋, I'm Paul Burrow-Newton
+# Paul Burrow-Newton MSc
 
-### A data scientist focusing on machine learning architectures
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=PaullikeAI&label=Profile views&color=0e75b6&style=flat" alt="PaullikeAI" /> </p>
-
-<p align="left"> <a href="https://twitter.com/PaulBN" target="blank"><img src="https://img.shields.io/twitter/follow/PaulBN?logo=twitter&style=for-the-badge" alt="PaulBN" /></a> </p>
-
-- 🔭 I'm currently working on **The Google Advanced Data Analytics Professional Certificate.**
+### A data scientist focusing on machine learning architectures.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
