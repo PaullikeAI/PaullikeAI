@@ -8,7 +8,7 @@
 <a href="https://instagram.com/paulcgbn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="paulcgbn" height="30" width="40" /></a>
 <a href="https://twitter.com/PaulBN" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/X_logo_2023_original.svg/300px-X_logo_2023_original.svg.png?20230728155658" alt="PaulBN" height="30" width="30" /></a>
 </p>
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Languages and Tools</h3>
 <h4 align="left">Data Science toolkit:</h4>
 <p align="left"> 
 <a href="https://developer.mozilla.org/en-US/docs/Web/python" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
