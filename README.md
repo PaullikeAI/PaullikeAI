@@ -32,5 +32,7 @@
 <a href="https://developer.mozilla.org/en-US/docs/Web/sqlite" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=sqlite" alt="sqlite" width="40" height="40"/> </a>
 </p>
 
-![Codewars](https://github.r2v.ch/codewars?user=AIPaul&stroke=%23BB432C) ![Hackerrank badges](https://hackerrank-badges.vercel.app/pcgburrownewton)
+![Codewars](https://github.r2v.ch/codewars?user=AIPaul&stroke=%23BB432C) 
+<h4 align="left">HackerRank Badges</h4>
 
+![Hackerrank badges](https://hackerrank-badges.vercel.app/pcgburrownewton)
