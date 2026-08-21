@@ -1,4 +1,4 @@
-# Paul Burrow-Newton MSc
+# Paul Burrow-Newton BA (Hons) MSc
 
 ### A data scientist focusing on machine learning architectures.
 
