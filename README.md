@@ -33,6 +33,6 @@
 </p>
 
 ![Codewars](https://github.r2v.ch/codewars?user=AIPaul&stroke=%23BB432C) 
-<h4 align="left">HackerRank Badges</h4>
+<h4 align="left">HackerRank Badges:</h4>
 
 ![Hackerrank badges](https://hackerrank-badges.vercel.app/pcgburrownewton)
